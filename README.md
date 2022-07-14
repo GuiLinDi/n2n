@@ -66,6 +66,7 @@ make install
 注意：./autogen.sh执行命令依赖automake,安装命令如下
 
    yum install gcc
+   
    yum install -y automake
    
 For Windows, MacOS, CMake, optimizations and general building options, please check out [Building documentation](doc/Building.md) for compilation and running.
